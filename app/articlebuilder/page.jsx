@@ -1,5 +1,5 @@
 import React from 'react'
-import Form from '@/app/components/formAdd'
+import Form from '@/app/components/FormAdd.jsx'
 function ArticleBuilder() {
   return (
     <div className='bg-[#e9e9e9] min-h-screen p-8 
